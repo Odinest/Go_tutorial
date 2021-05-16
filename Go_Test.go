@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//상수
 const MAXMAX = "AOI";
 
 
